@@ -1,4 +1,5 @@
-
+//can covert words till billion but can change this code to convert bigger number
+//run demo.html to see the output
 function num_to_words(num, len, str) {
 
     num_set = {
